@@ -1,0 +1,15 @@
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\Algorytm_RSA.csprojResolveAssemblyReference.cache
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\MainWindow.g.cs
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\App.g.cs
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\Algorytm_RSA_MarkupCompile.cache
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\Algorytm_RSA_MarkupCompile.lref
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\bin\Debug\Algorytm_RSA.exe.config
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\bin\Debug\Algorytm_RSA.exe
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\bin\Debug\Algorytm_RSA.pdb
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\MainWindow.baml
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\Algorytm_RSA.g.resources
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\Algorytm_RSA.Properties.Resources.resources
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\Algorytm_RSA.csproj.GenerateResource.Cache
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\Algorytm_RSA.csproj.CoreCompileInputs.cache
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\Algorytm_RSA.exe
+C:\Users\Hubi\source\repos\Algorytm_RSA\Algorytm_RSA\obj\Debug\Algorytm_RSA.pdb
