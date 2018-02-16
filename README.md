@@ -1,6 +1,5 @@
 # ImplementationRSA_WPF
 
-## Overview
 Simple desktop application implementing RSA algorithm. 
 
 ## Functionality
